@@ -39,3 +39,6 @@ print(tips.head())
 #sns.displot(tips, x="day", shrink=0.8)
 #shrink - pode juntar ou separar as caixas
 #plt.show()
+
+
+#https://seaborn.pydata.org/tutorial/distributions.html
